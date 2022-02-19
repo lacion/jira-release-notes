@@ -1,0 +1,6 @@
+name: 'Jira Release Notes'
+description: 'Automatic release note generated based on jira tickets in commits'
+author: 'Luis Morales'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'

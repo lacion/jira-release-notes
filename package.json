@@ -17,7 +17,7 @@
     "all": "npm run build && npm run format && npm run lint && npm run package && npm test"
   },
   "dependencies": {
-    "@actions/core": "^1.6.0"
+    "@actions/core": "^1.9.1"
   },
   "devDependencies": {
     "@types/node": "^17.0.18",
